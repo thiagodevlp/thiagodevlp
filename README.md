@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, me chamo Thiago e seja bem vindo/a ao meu perfil!!☕
 
 - Atualmente estou cursando Análise e desenvolvimento de Sistemas e cursos na DIO;
 - faço estágio na Delegacia DISE-Itapetininga em manutenção e Redes;
