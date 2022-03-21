@@ -1,6 +1,7 @@
 ### Olá, me chamo Thiago e seja bem vindo/a ao meu perfil!!☕
 
-- Atualmente estou cursando Análise e desenvolvimento de Sistemas e cursos na DIO;
+- Atualmente estou cursando Análise e desenvolvimento de Sistemas e cursos na DIO;<br>
+  (Você pode ver meus certificados em meu repositório aqui no GitHub)
 - faço estágio na Delegacia DISE-Itapetininga em manutenção e Redes;
 - Estou em busca de uma oportunidade na área de Programação, para me aprimorar cada vez mais.
 
@@ -28,3 +29,4 @@
 
   ![Snake animation](https://github.com/thiagodevlp/thiagodevlp/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
