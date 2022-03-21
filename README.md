@@ -3,7 +3,7 @@
 - Atualmente estou cursando Análise e desenvolvimento de Sistemas e cursos na DIO;<br>
   (Você pode ver meus certificados em meu repositório aqui no GitHub)
 - faço estágio na Delegacia DISE-Itapetininga em manutenção e Redes;
-- Estou em busca de uma oportunidade na área de Programação, para me aprimorar cada vez mais.
+- Estou em busca de uma oportunidade na área de Programação, para me aprimorar cada vez mais.<br><br>
 
 <div align="left">
   <container>
